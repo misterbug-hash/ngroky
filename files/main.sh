@@ -4,7 +4,7 @@ figlet __NGROK__
 
 echo -e '                 \e[101m ::::.MENU.::::\e[0m'
 echo '            '
-echo -e '        \e[101m please select your Client Server\>
+echo -e '        \e[101m please select your Client Server\e[0m'
 echo '                              '
 echo '                __________________      '
 echo -e '              \e[92m |-{1}- http server|'
